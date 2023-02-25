@@ -1,3 +1,3 @@
 function sayHello() {
-  alert("I SAID HELLO KIZER");
+  alert("I SAID HELLO LIZER");
 }
